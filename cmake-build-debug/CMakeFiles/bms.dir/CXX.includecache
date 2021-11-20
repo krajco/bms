@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/patrik.krajc/CLionProjects/bms/RSC.h
+vector
+-
+
+/cygdrive/c/Users/patrik.krajc/CLionProjects/bms/main.cpp
+iostream
+-
+utility
+-
+RSC.h
+/cygdrive/c/Users/patrik.krajc/CLionProjects/bms/RSC.h
+

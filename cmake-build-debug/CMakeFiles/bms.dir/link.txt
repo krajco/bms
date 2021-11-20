@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/bms.dir/main.cpp.o CMakeFiles/bms.dir/RSC.cpp.o CMakeFiles/bms.dir/global.cpp.o -o bms.exe -Wl,--out-implib,libbms.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
